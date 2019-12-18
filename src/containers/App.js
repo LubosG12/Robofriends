@@ -41,6 +41,7 @@ class App extends Component {
           </Scroll>
         </main>
         <footer>
+        <p className="tc"> Made by <a href="https://github.com/LubosG12">Ľubomír Furinda</a> </p>
         </footer>
       </body>
       </Fragment>
